@@ -23,7 +23,7 @@ can be `snacks` , `drinks` or that the same name of the category includes `"sna"
 `Find-Query` : 
 
 ``` typescript
-import { findFull } from '@pimba/findall/lib';
+import { findFull } from 'ez-findall/lib';
 
 
 
